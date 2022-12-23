@@ -6,5 +6,6 @@ Collection of simple generic data structures currently missing in Go's standard 
 
 * Set (done)
 * List
+* Stack (done)
 * Queue
 * Heap
